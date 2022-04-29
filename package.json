@@ -23,8 +23,8 @@
     "react": "^16.0.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
-    "microbundle-crl": "^0.13.11",
-    "standard": "^17.0.0"
+    "microbundle-crl": "0.13.11",
+    "standard": "17.0.0"
   },
   "dependencies": {
     "oidc-client": "^1.11.5"
