@@ -13,7 +13,11 @@
     "test": "standard ./src/**/*.js"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Rune Moskvil Lyngås",
+    "email": "rune.moskvil.lyngaas@vtfk.no",
+    "url": "https://github.com/runely"
+  },
   "license": "ISC",
   "peerDependencies": {
     "react": "^16.0.0 || ^17.0.0 || ^18.0.0"
